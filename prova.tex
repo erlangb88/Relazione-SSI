@@ -1,0 +1,26 @@
+\documentclass[12pt,a4paper,oneside]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\pagestyle{fancy}
+\addtolength{\headheight}{\baselineskip}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\renewcommand{\subsectionmark}[1]{\markright{#1}}
+\rhead{\leftmark\\\rightmark}
+\title{Biometric Authentication Tag System \\ su piattaforma Android}
+\author{Alessandro Loffredo - Daniele D'Angeli}
+\begin{document}
+\maketitle
+
+\pagebreak
+
+\tableofcontents
+\pagebreak
+\input{introduzione}
+
+\input{Strumenti} %Funzionamento e stato dell'arte di Firme QR e FaceRec
+\input{SistemaRealizzato}
+\input{Testing}
+\input{Conclusioni}
+
+\end{document}

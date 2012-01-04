@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduzione}{3}
+\contentsline {section}{\numberline {2}Stato dell'arte}{3}
+\contentsline {subsection}{\numberline {2.1}Firme Digitali}{3}
+\contentsline {subsection}{\numberline {2.2}Face Recognition}{3}
+\contentsline {subsection}{\numberline {2.3}QR Code}{3}
+\contentsline {section}{\numberline {3}Sistema Realizzato}{4}
+\contentsline {subsection}{\numberline {3.1}Descrizione}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}Use Case Diagram}{4}
+\contentsline {subsection}{\numberline {3.2}Strumenti utilizzati}{4}
+\contentsline {subsubsection}{\numberline {3.2.1}Andorid SDK}{4}
+\contentsline {subsubsection}{\numberline {3.2.2}Andorid NDK}{4}
+\contentsline {subsubsection}{\numberline {3.2.3}Libreria OpenCV}{4}
+\contentsline {subsection}{\numberline {3.3}Firme Digitali}{4}
+\contentsline {subsection}{\numberline {3.4}Face Recognition}{4}
+\contentsline {subsection}{\numberline {3.5}ID Card}{4}
+\contentsline {subsubsection}{\numberline {3.5.1}NFC}{4}
+\contentsline {subsubsection}{\numberline {3.5.2}QRCode I/O}{5}
+\contentsline {paragraph}{Generazione}{5}
+\contentsline {paragraph}{Lettura}{6}
+\contentsline {section}{\numberline {4}Testing, Tuning e analisi delle prestazioni}{6}
+\contentsline {section}{\numberline {5}Conclusioni e sviluppi futuri}{6}
